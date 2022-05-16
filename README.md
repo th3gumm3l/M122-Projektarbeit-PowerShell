@@ -37,3 +37,6 @@ This report should contain (structure the content of your AA report according to
 8. Powershell scripts as an attachment
 9. Log file of a successful backup as attachment 2 
 10. Documentation concept as attachment 3
+
+## Licensing
+Project is [MIT licensed](./LICENSE)
